@@ -1,9 +1,3 @@
----
-layout: post
-title: 在Linux内核中添加模块
-
----
-
 # 在Linux内核中添加模块
 
 ## Linux内核编译流程
